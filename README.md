@@ -8,7 +8,6 @@
 
 ![Next.js Badge](https://img.shields.io/badge/Next.js%2015-000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![shadcn/ui Badge](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
 ![Clerk Badge](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff&style=flat)
 ![Drizzle Badge](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat)
@@ -89,3 +88,4 @@ You're welcome to contribute:
 * 🔁 Open a pull request
 
 Every bit of help is appreciated! 🙌
+
